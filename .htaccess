@@ -1,0 +1,4 @@
+Options -Indexes
+RewriteEngine On
+RewriteRule ^([^/.]+)$ http://localhost/icishort/kunjungi.php?URLPendek=$1
+ErrorDocument 404 /404.html

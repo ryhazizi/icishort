@@ -1,0 +1,19 @@
+@font-face {
+ 	font-family: "StardustAdventure";
+    src: url('../font/StardustAdventure.ttf');
+ }
+
+ @font-face {
+ 	font-family: "ElegantSensational";
+ 	src: url('../font/ElegantSensational.ttf');
+ }
+
+ @font-face {
+ 	font-family: "MidnightValentine";
+ 	src: url('../font/MidnightValentine.ttf');
+ }
+
+ @font-face {
+ 	font-family: "Roboto";
+ 	src: url('../font/Roboto.ttf');
+ }
